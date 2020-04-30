@@ -3,10 +3,10 @@
 """
 ##########################################################
 
-Name: 		Py Calculator 1
+Name:       Py Calculator 1.0
 Created by: Christian Moran
-e-mail: 	christianrmoran86@gmail.com
-More code: 	http://github.com/chrisrm86
+e-mail:     christianrmoran86@gmail.com
+More code:  http://github.com/chrisrm86
 
 ##########################################################
 """
