@@ -20,7 +20,7 @@ class PyCalculator_1():
         self.app.geometry("238x312")
         self.app.resizable(False,False)
         self.app.title("PyCalculator")
-        self.app.iconbitmap('calc.ico')
+        #self.app.iconbitmap('calc.ico')
 
         self.stringContents = ''
         self.displayStr = StringVar(self.stringContents)
